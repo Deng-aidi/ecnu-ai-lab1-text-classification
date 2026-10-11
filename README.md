@@ -8,9 +8,10 @@
 - Python 3.7+
 - scikit-learn, pandas, numpy, matplotlib
 - nltk（可选，用于词干提取对照实验）
+- 运行实验可能需要几分钟左右，会产生一系列结果文件，详情可以看data-Project文件夹里面的README.md文件，本次实验的代码也放到了文件夹下
 
 安装依赖：
 ```bash
 pip install scikit-learn pandas numpy matplotlib nltk
 
-（运行实验可能需要几分钟左右，会产生一系列结果文件，详情可以看data-Project文件夹里面的README.md文件，本次实验的代码也放到了文件夹下）
+
