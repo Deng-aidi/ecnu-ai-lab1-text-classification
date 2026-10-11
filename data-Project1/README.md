@@ -10,6 +10,8 @@
 
 ## 文件说明
 - draft_main.py：主实验代码
+
+## 以下是运行draft_main.py会得到的一些结果，运行时间可能需要几分钟
 - val_result.csv：各模型验证集结果
 - loss_report.png：MLP 训练/验证损失曲线
 - confusion_matrix.png：混淆矩阵
